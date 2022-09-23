@@ -1,0 +1,9 @@
+Os bancos de dados relacionais armazenam dados de acordo com esquemas específicos. Por outro lado, os sistemas NoSQL permitem que os dados sejam armazenados usando qualquer estrutura necessária, mas fornece uma maneira de atualizar esses dados ao alterar essa estrutura.
+
+A linguagem SQL é usada para executar comandos em bancos de dados relacionais, que são os bancos baseados em tabelas.
+
+Bancos de dados relacionais, como os do MySQL e PostgreSQL, armazenam dados usando um esquema explícito. Um esquema descreve como gravar dados no banco de dados, particularmente descrevendo a estrutura, tipos e estruturas de tabelas e registros.
+
+Os termos ‘SQL’ e ‘NoSQL’ referem-se essencialmente a como esses esquemas são definidos. Em um banco de dados relacional, os usuários usam as instruções SELECT, INSERT e DELETE para adicionar ou atualizar dados.
+
+O banco de dados NoSQL refere-se a um banco de dados não relacional.
